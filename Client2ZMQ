@@ -15,7 +15,7 @@ namespace Client2
 
             if (args == null || args.Length < 1)
             {
-                Console.WriteLine("Клиент-2 Масленников Владимир Владимирович ИСБО-04-15:\n");
+                Console.WriteLine("client-1 shebarshov Sergey isbo-04-15:\n");
                 args = new string[] { "tcp://192.168.50.1:8005" };
             }
 
